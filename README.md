@@ -9,3 +9,11 @@ https://raw.githubusercontent.com/Furryirlburner1/Furryirloverlaysync/main/refer
 if you're a Mod and dont know how github works feel free to Contact
 
 Ziraya#6920 on discord
+
+
+
+## Furry_IRL click to run
+basically a click to run thing to convert the reference for the overlay
+the reference.png inside the dir of the py file will get transformed and 
+put into the output folder
+
