@@ -3,4 +3,4 @@
 
 - Use the Raw image in the overlay and update it here
 
- https://github.com/Furryirlburner1/Furryirloverlaysync/blob/main/reference.png?raw=true
+https://raw.githubusercontent.com/Furryirlburner1/Furryirloverlaysync/main/reference.png
