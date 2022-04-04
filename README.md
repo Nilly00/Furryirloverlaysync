@@ -13,7 +13,8 @@ Ziraya#6920 on discord
 
 
 ## Furry_IRL click to run
-basically a click to run thing to convert the reference for the overlay
-the reference.png inside the dir of the py file will get transformed and 
-put into the output folder
+basically a click to run thing to convert the reference for the overlay.
+The reference.png inside the dir of the .py file will get transformed and 
+put into the output folder.
+**Be sure to name the file you want to convert reference.png**
 
